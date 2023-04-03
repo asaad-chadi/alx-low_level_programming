@@ -1,6 +1,3 @@
-es (20 sloc)  357 Bytes
- 
-
 #include "main.h"
 /**
  *_memcpy - a function that copies memory area
